@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Etrav05
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science/Computer Science
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: Etravis090705@gmail.com
