@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Etrav05
 - 👀 I’m interested in Data Science/Computer Science
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Python, C#, Databases (MySQL), React, ASP.NET
 - 📫 How to reach me: Etravis090705@gmail.com
